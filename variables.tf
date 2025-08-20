@@ -13,4 +13,4 @@ variable "gcp_credentials" {
 }
 variable "gcp_zone" { default = "us-central1-a" }
 variable "gcp_machine_type" { default = "e2-micro" }
-variable "gcp_image" { default = "debian-cloud/debian-11" }
+variable "gcp_image" { default = "ubuntu-os-cloud/ubuntu-2204-lts" } #debian-cloud/debian-11
