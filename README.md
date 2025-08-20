@@ -1,5 +1,5 @@
 # Terraform-vault-oss
-Terraform code for Deploying Oepn Source HashiCorp Vault.
+Deploying Open Source HashiCorp Vault using Terraform.
 
 # Running Code in a Text Editor or IDE
     terraform fmt
